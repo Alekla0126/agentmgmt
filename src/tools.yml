@@ -62,7 +62,7 @@
     - https://x.com/OpenHandsDev
   details: Open-source platform for software engineering agents, with a local GUI, CLI, SDK, and hosted cloud.
   price: Freemium
-  github_stars: 90000
+  github_stars: 91000
   opensource: true
   os: [macos, linux, windows, web]
 
@@ -94,7 +94,7 @@
     - https://github.com/zeronsh/zeron
   details: Native workspace for managing coding agents, with live diffs and optional multi-device session control.
   price:
-  github_stars: 3100
+  github_stars: 3200
   opensource: true
   os: [macos, linux, windows]
 
@@ -738,7 +738,7 @@
     - https://github.com/mvschwarz/openrig
   details: Self-hosted daemon, CLI, and TUI on tmux that runs Claude Code, Codex, and Pi as a persistent team, with a lead agent delegating to specialist agents over weeks-long projects.
   price: Free
-  github_stars: 6500
+  github_stars: 6800
   opensource: true
   os: [macos, linux]
 
