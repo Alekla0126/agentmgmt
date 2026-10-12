@@ -246,7 +246,7 @@
     - https://discord.gg/fzjDKHxv8Q
     - https://github.com/stablyai/orca
   price: Free
-  github_stars: 89000
+  github_stars: 90000
   opensource: true
   os: [macos, linux, windows, android, ios]
 
@@ -332,7 +332,7 @@
     - https://x.com/emdashsh
     - https://github.com/generalaction/emdash
   price: Free
-  github_stars: 5900
+  github_stars: 6000
   opensource: true
   os: [macos, linux, windows]
 
@@ -434,7 +434,7 @@
     - https://discord.gg/jz8T2uahpH
     - https://github.com/getpaseo/paseo
   price: Free
-  github_stars: 20000
+  github_stars: 21000
   opensource: true
   os: [macos, linux, windows, web, android, ios]
 
@@ -750,7 +750,7 @@
     - https://github.com/mvschwarz/openrig
   details: Self-hosted daemon, CLI, and TUI on tmux that runs Claude Code, Codex, and Pi as a persistent team, with a lead agent delegating to specialist agents over weeks-long projects.
   price: Free
-  github_stars: 6800
+  github_stars: 7000
   opensource: true
   os: [macos, linux]
 
