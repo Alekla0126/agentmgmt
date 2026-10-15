@@ -1,3 +1,13 @@
+- name: Cloudroom
+  url: https://www.cloudroom.dev/
+  links:
+    - https://github.com/davidondrej/cloudroom-core
+  details: Desktop app that runs Claude Code, Codex, Pi, OpenCode, Cursor, and other agents locally or in sandboxed cloud threads, with subagents on any model via OpenRouter.
+  price: Freemium
+  github_stars: 700
+  opensource: true
+  os: [macos, linux]
+
 - name: Happier
   url: https://www.happier.dev/
   links:
