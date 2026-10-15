@@ -16,7 +16,7 @@
     - https://github.com/hardbeat920/monocode
   details: Desktop GUI that runs your installed Claude Code, Codex, Cursor, OpenCode, and other CLI agents in tabbed, splittable sessions, with optional worktrees, agent-driven orchestration, and experimental remote hosts.
   price: Free
-  github_stars: 3000
+  github_stars: 3100
   opensource: true
   os: [macos, linux, windows]
 
@@ -246,7 +246,7 @@
     - https://discord.gg/fzjDKHxv8Q
     - https://github.com/stablyai/orca
   price: Free
-  github_stars: 92000
+  github_stars: 93000
   opensource: true
   os: [macos, linux, windows, android, ios]
 
@@ -384,7 +384,7 @@
     - https://github.com/maddada/Ghostex
     - https://x.com/maddada
   price: Free
-  github_stars: 1000
+  github_stars: 1100
   opensource: true
   os: [macos, android, ios]
 
@@ -395,7 +395,7 @@
     - https://github.com/kdlbs/kandev
     - https://discord.gg/gWdCPGcFCD
   price: Free
-  github_stars: 900
+  github_stars: 1000
   opensource: true
   os: [macos, linux, windows, web]
 
@@ -584,7 +584,7 @@
     - https://discord.gg/jn4EGJjrvv
     - https://github.com/pingdotgg/t3code
   price: Free
-  github_stars: 27000
+  github_stars: 28000
   opensource: true
   os: [macos, linux, windows]
 
@@ -730,7 +730,7 @@
     - https://github.com/johannesjo/parallel-code
   details: Open-source desktop workspace that runs Claude Code, Codex, Gemini, Copilot, and Antigravity CLIs in parallel, each in its own git worktree, with diff review, merging, and phone monitoring.
   price: Free
-  github_stars: 1000
+  github_stars: 1100
   opensource: true
   os: [macos, linux]
 
@@ -750,7 +750,7 @@
     - https://github.com/mvschwarz/openrig
   details: Self-hosted daemon, CLI, and TUI on tmux that runs Claude Code, Codex, and Pi as a persistent team, with a lead agent delegating to specialist agents over weeks-long projects.
   price: Free
-  github_stars: 7400
+  github_stars: 7500
   opensource: true
   os: [macos, linux]
 
