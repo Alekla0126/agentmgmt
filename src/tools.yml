@@ -256,7 +256,7 @@
     - https://discord.gg/fzjDKHxv8Q
     - https://github.com/stablyai/orca
   price: Free
-  github_stars: 93000
+  github_stars: 94000
   opensource: true
   os: [macos, linux, windows, android, ios]
 
@@ -424,7 +424,7 @@
   links:
     - https://github.com/njbrake/agent-of-empires
   price: Free
-  github_stars: 3300
+  github_stars: 3400
   opensource: true
   os: [macos, linux, web]
 
@@ -575,7 +575,7 @@
     - https://github.com/tiann/hapi
   details: Local-first mobile, web, PWA, and Telegram client for driving Claude Code, Codex, and other agents remotely.
   price: Free
-  github_stars: 5200
+  github_stars: 5300
   opensource: true
   os: [macos, linux, web, android, ios]
 
