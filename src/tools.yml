@@ -4,7 +4,7 @@
     - https://github.com/davidondrej/cloudroom-core
   details: Desktop app that runs Claude Code, Codex, Pi, OpenCode, Cursor, and other agents locally or in sandboxed cloud threads, with subagents on any model via OpenRouter.
   price: Freemium
-  github_stars: 700
+  github_stars: 800
   opensource: true
   os: [macos, linux]
 
@@ -116,7 +116,7 @@
     - https://github.com/zeronsh/zeron
   details: Native workspace for managing coding agents, with live diffs and optional multi-device session control.
   price:
-  github_stars: 3200
+  github_stars: 3300
   opensource: true
   os: [macos, linux, windows]
 
@@ -256,7 +256,7 @@
     - https://discord.gg/fzjDKHxv8Q
     - https://github.com/stablyai/orca
   price: Free
-  github_stars: 94000
+  github_stars: 95000
   opensource: true
   os: [macos, linux, windows, android, ios]
 
@@ -394,7 +394,7 @@
     - https://github.com/maddada/Ghostex
     - https://x.com/maddada
   price: Free
-  github_stars: 1100
+  github_stars: 1200
   opensource: true
   os: [macos, android, ios]
 
@@ -760,7 +760,7 @@
     - https://github.com/mvschwarz/openrig
   details: Self-hosted daemon, CLI, and TUI on tmux that runs Claude Code, Codex, and Pi as a persistent team, with a lead agent delegating to specialist agents over weeks-long projects.
   price: Free
-  github_stars: 7500
+  github_stars: 7600
   opensource: true
   os: [macos, linux]
 
