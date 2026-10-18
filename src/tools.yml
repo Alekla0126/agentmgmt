@@ -256,7 +256,7 @@
     - https://discord.gg/fzjDKHxv8Q
     - https://github.com/stablyai/orca
   price: Free
-  github_stars: 95000
+  github_stars: 96000
   opensource: true
   os: [macos, linux, windows, android, ios]
 
@@ -394,7 +394,7 @@
     - https://github.com/maddada/Ghostex
     - https://x.com/maddada
   price: Free
-  github_stars: 1200
+  github_stars: 1300
   opensource: true
   os: [macos, android, ios]
 
@@ -463,7 +463,7 @@
   links:
     - https://github.com/ogulcancelik/herdr
   price: Free
-  github_stars: 44000
+  github_stars: 45000
   opensource: true
   os: [macos, linux]
 
@@ -617,7 +617,7 @@
     - https://www.youtube.com/@warpdotdev
     - https://go.warp.dev/join-preview
   price: Freemium
-  github_stars: 65000
+  github_stars: 66000
   opensource: true
   os: [macos, linux, windows]
 
@@ -760,7 +760,7 @@
     - https://github.com/mvschwarz/openrig
   details: Self-hosted daemon, CLI, and TUI on tmux that runs Claude Code, Codex, and Pi as a persistent team, with a lead agent delegating to specialist agents over weeks-long projects.
   price: Free
-  github_stars: 7600
+  github_stars: 7700
   opensource: true
   os: [macos, linux]
 
