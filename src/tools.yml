@@ -4,7 +4,7 @@
     - https://github.com/dagoSte/squadra
   details: Local skill and Python toolkit for coordinating Claude Code, Codex, and interactive Cursor windows, with a shared task registry, file-bound checks, non-author reviews, and a browser dashboard.
   price: Free
-  github_stars: 0
+  github_stars: 300
   opensource: true
   os: [macos]
 
@@ -15,7 +15,7 @@
     - https://discord.gg/BdMyubeAZn
   details: Keyboard-first desktop app for running Claude Code, Codex, Aider, Goose, and any terminal agent in parallel Git worktrees, with a CLI and a self-hosted remote daemon for desktop or phone access.
   price: Free
-  github_stars: 500
+  github_stars: 600
   opensource: true
   os: [macos, linux, windows]
 
@@ -77,7 +77,7 @@
     - https://github.com/davidondrej/cloudroom-core
   details: Desktop app that runs Claude Code, Codex, Pi, OpenCode, Cursor, and other agents locally or in sandboxed cloud threads, with subagents on any model via OpenRouter.
   price: Freemium
-  github_stars: 800
+  github_stars: 900
   opensource: true
   os: [macos, linux]
 
@@ -329,7 +329,7 @@
     - https://discord.gg/fzjDKHxv8Q
     - https://github.com/stablyai/orca
   price: Free
-  github_stars: 96000
+  github_stars: 97000
   opensource: true
   os: [macos, linux, windows, android, ios]
 
@@ -833,7 +833,7 @@
     - https://github.com/mvschwarz/openrig
   details: Self-hosted daemon, CLI, and TUI on tmux that runs Claude Code, Codex, and Pi as a persistent team, with a lead agent delegating to specialist agents over weeks-long projects.
   price: Free
-  github_stars: 7700
+  github_stars: 7800
   opensource: true
   os: [macos, linux]
 
