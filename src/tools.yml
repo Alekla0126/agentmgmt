@@ -77,7 +77,7 @@
     - https://github.com/davidondrej/cloudroom-core
   details: Desktop app that runs Claude Code, Codex, Pi, OpenCode, Cursor, and other agents locally or in sandboxed cloud threads, with subagents on any model via OpenRouter.
   price: Freemium
-  github_stars: 900
+  github_stars: 1000
   opensource: true
   os: [macos, linux]
 
@@ -329,7 +329,7 @@
     - https://discord.gg/fzjDKHxv8Q
     - https://github.com/stablyai/orca
   price: Free
-  github_stars: 99000
+  github_stars: 100000
   opensource: true
   os: [macos, linux, windows, android, ios]
 
@@ -433,7 +433,7 @@
   links:
     - https://github.com/coollabsio/jean
   price: Free
-  github_stars: 1300
+  github_stars: 1400
   opensource: true
   os: [macos, windows, linux]
 
@@ -517,7 +517,7 @@
     - https://discord.gg/jz8T2uahpH
     - https://github.com/getpaseo/paseo
   price: Free
-  github_stars: 21000
+  github_stars: 22000
   opensource: true
   os: [macos, linux, windows, web, android, ios]
 
@@ -559,7 +559,7 @@
     - https://www.instagram.com/nimbalyst
     - https://github.com/nimbalyst/nimbalyst
   price: Free
-  github_stars: 1900
+  github_stars: 2000
   opensource: true
   os: [macos, linux, windows]
 
@@ -833,7 +833,7 @@
     - https://github.com/mvschwarz/openrig
   details: Self-hosted daemon, CLI, and TUI on tmux that runs Claude Code, Codex, and Pi as a persistent team, with a lead agent delegating to specialist agents over weeks-long projects.
   price: Free
-  github_stars: 7900
+  github_stars: 8000
   opensource: true
   os: [macos, linux]
 
