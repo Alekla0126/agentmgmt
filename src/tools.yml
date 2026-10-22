@@ -157,7 +157,7 @@
     - https://x.com/OpenHandsDev
   details: Open-source platform for software engineering agents, with a local GUI, CLI, SDK, and hosted cloud.
   price: Freemium
-  github_stars: 91000
+  github_stars: 92000
   opensource: true
   os: [macos, linux, windows, web]
 
@@ -329,7 +329,7 @@
     - https://discord.gg/fzjDKHxv8Q
     - https://github.com/stablyai/orca
   price: Free
-  github_stars: 100000
+  github_stars: 102000
   opensource: true
   os: [macos, linux, windows, android, ios]
 
@@ -415,7 +415,7 @@
     - https://x.com/emdashsh
     - https://github.com/generalaction/emdash
   price: Free
-  github_stars: 6000
+  github_stars: 6100
   opensource: true
   os: [macos, linux, windows]
 
@@ -725,7 +725,7 @@
   url: https://nodeterm.dev/
   links:
     - https://github.com/eneskirca/nodeterm
-  github_stars: 2000
+  github_stars: 2100
   opensource: false
   os: [macos]
 
@@ -833,7 +833,7 @@
     - https://github.com/mvschwarz/openrig
   details: Self-hosted daemon, CLI, and TUI on tmux that runs Claude Code, Codex, and Pi as a persistent team, with a lead agent delegating to specialist agents over weeks-long projects.
   price: Free
-  github_stars: 8000
+  github_stars: 8100
   opensource: true
   os: [macos, linux]
 
